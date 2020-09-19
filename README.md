@@ -20,5 +20,5 @@ jQuery ; javaScript ; HTML ; CSS
 
 HTML , CSS provided.
 
-
+![Plan for Coffee](assets/Daily-Planner.jpg);
 
